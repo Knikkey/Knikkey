@@ -18,7 +18,7 @@
 
 - 📄 Look at how professional I am: **[My Resume](https://nick-bingham.netlify.app/static/media/Nicholas%20Bingham%20Resume%20-%20public.a3f3a49a509828a2bb2f.pdf)**
 
-- ⚡ Fun fact: **I've in Japan for 4 years and South Korea for 6**
+- ⚡ Fun fact: **I lived in Japan for 4 years and South Korea for 6**
 <br>
 <br>
 
