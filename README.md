@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on: **A website for a friend's display gallery (link coming soon)**
 
+- 🧠 I’m currently learning: **CMS via Wordpress**
+
 - 👯 I’m looking to collaborate on: **Anything! Feel free to [Contact Me](https://nick-bingham.netlify.app/contact)**
 
 - 🤝 I’m looking for help with: **Networking to find employment 🙏**
