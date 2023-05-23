@@ -6,7 +6,7 @@
 
 <img align="right" alt="a gif of a man coding on his computer at night time in his room with various cute emojis rising from his monitor" width="400" src="https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp">
 
-- 🔭 I’m currently working on: **A website for a friend's display gallery (link coming soon)**
+- 🔭 I’m currently working on: **A company website landing page (link coming soon)**
 
 - 🧠 I’m currently learning: **CMS via Wordpress**
 
