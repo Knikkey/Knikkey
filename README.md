@@ -16,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available on: **[My Portfolio Page](https://nick-bingham.netlify.app/)**
 
-- 📫 How to reach me: **[Contact Form](https://nick-bingham.netlify.app/contact)**
+- 📫 How to reach me: **[Contact Form](https://nick-bingham.netlify.app/) on my portfolio page**
 
-- 📄 Look at how professional I am: **[My Resume](https://nick-bingham.netlify.app/static/media/Nicholas%20Bingham%20Resume%20-%20public.a3f3a49a509828a2bb2f.pdf)**
+- 📄 Look at how professional I am: **[My Resume](https://nick-bingham.netlify.app/) on my portfolio page**
 
 - ⚡ Fun fact: **I lived in Japan for 4 years and South Korea for 6**
 <br>
