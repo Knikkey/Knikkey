@@ -10,7 +10,7 @@
 
 - 🧠 I’m currently learning: **CMS via Wordpress**
 
-- 👯 I’m looking to collaborate on: **Anything! Feel free to [Contact Me](https://nick-bingham.netlify.app/contact)**
+- 👯 I’m looking to collaborate on: **Anything! Feel free to reach out to me with the contact form on [my portfolio page](https://nick-bingham.netlify.app/)**
 
 - 🤝 I’m looking for help with: **Networking to find employment 🙏**
 
