@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **A company website landing page (link coming soon)**
 
-- 🧠 I’m currently learning: **CMS via Wordpress**
+- 🧠 I’m currently intersted in learning: **Next.js**
 
 - 👯 I’m looking to collaborate on: **Anything! Feel free to reach out to me with the contact form on [my portfolio page](https://nick-bingham.netlify.app/)**
 
