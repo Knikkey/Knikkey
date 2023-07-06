@@ -6,9 +6,9 @@
 
 <img align="right" alt="a gif of a man coding on his computer at night time in his room with various cute emojis rising from his monitor" width="400" src="https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp">
 
-- 🔭 I’m currently working on: **A company website landing page (link coming soon)**
+- 🔭 I’m currently working on: **A full-stack app using React, Next, SCSS, Redux, Node, Express, Prisma, and Postgresql. What a mouthful!**
 
-- 🧠 I’m currently intersted in learning: **Next.js**
+- 🧠 I’m currently interested in learning: **A CMS like Webflow or WordPress**
 
 - 👯 I’m looking to collaborate on: **Anything! Feel free to reach out to me with the contact form on [my portfolio page](https://nick-bingham.netlify.app/)**
 
