@@ -6,7 +6,7 @@
 
 <img align="right" alt="a gif of a man coding on his computer at night time in his room with various cute emojis rising from his monitor" width="400" src="https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp">
 
-- 🔭 I’m currently working on: **A full-stack app using React, Next, SCSS, Redux, Node, Express, Prisma, and Postgresql. What a mouthful!**
+- 🔭 I’m currently working on: **A snazzy custom CMS for my company**
 
 - 🧠 I’m currently interested in learning: **A CMS like Webflow or WordPress**
 
